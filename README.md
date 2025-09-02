@@ -33,4 +33,3 @@ Integrate interactive dashboards with Plotly/Dash.
 
 Hasini.K
 
-Internship Project @ SkillCraft Technology
