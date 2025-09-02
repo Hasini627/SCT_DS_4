@@ -32,4 +32,5 @@ Integrate interactive dashboards with Plotly/Dash.
 👩‍💻 Author
 
 Hasini.K
+
 Internship Project @ SkillCraft Technology
